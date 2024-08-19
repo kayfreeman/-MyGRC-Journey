@@ -106,8 +106,8 @@ You can view my certifications and achievements on my [Credly profile](https://w
 ### Certification Badges
 
 <div>
-    <img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" style="width: 30%; height: auto;" />
-    <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" style="width: 30%; height: auto;" />
+    <img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" style="width: 10%; height: auto;" />
+    <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" style="width: 10%; height: auto;" />
 </div>
 
 ### Network
