@@ -100,8 +100,12 @@ This repository provides a comprehensive guide on tools used and how they were u
 4. **Stay Updated:** Continuously update your knowledge to keep up with evolving regulations and tool capabilities.
 
 ## Certification
-
 You can view my certifications and achievements on my [Credly profile](https://www.credly.com/users/adeyinka-kayode-freeman).
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CRISC-006400?&style=for-the-badge&logoColor=white" />
+</div>
 
 ## Certification Badges
 
@@ -126,14 +130,6 @@ You can view my certifications and achievements on my [Credly profile](https://w
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Projects
 
