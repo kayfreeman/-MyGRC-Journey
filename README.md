@@ -2,17 +2,17 @@
 <a href="https://www.linkedin.com/in/yinkafreeman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
-With a Master’s in Analytics from RMIT University, I am embarking on a strategic transition from business analysis and product management to specializing in Governance, Risk Management, and Compliance (GRC). My background in analytics equips me with a keen ability to leverage data-driven insights for enhancing risk management and compliance strategies. Passionate about shaping robust frameworks and implementing effective audit practices, I am committed to driving innovation and excellence in the GRC field. My goal is to integrate my analytical skills with cutting-edge GRC practices to tackle complex challenges and deliver impactful solutions.
+With a Master’s in Analytics from RMIT University, I am embarking on a strategic transition from business analysis and product management to specializing in Governance, Risk Management, and Compliance (GRC). My background in analytics equips me with a keen ability to leverage data-driven insights to enhance risk management and compliance strategies. Passionate about shaping robust frameworks and implementing effective audit practices, I am committed to driving innovation and excellence in the GRC field. I aim to integrate my analytical skills with cutting-edge GRC practices to tackle complex challenges and deliver impactful solutions.
 
 ## Objective
-My objective is to showcase my expertise in Governance, Risk Management, and Compliance (GRC) through a curated portfolio of projects on GitHub.
+I aim to showcase my expertise and experience in my Governance, Risk Management, and Compliance (GRC) journey through the curated portfolios of projects and documents on GitHub.
 
 ## Skills
 I have a strong foundation in business analysis, where I successfully gathered and analyzed requirements, mapped processes, and managed stakeholder relationships to deliver clear, actionable insights that improved project outcomes. 
-In my role as a product manager, I led the entire product lifecycle, from market research to roadmap development, guiding cross-functional teams to deliver products that met market needs and business goals. My experience in functional testing includes designing test cases, ensuring quality through rigorous testing, and efficiently resolving defects, leading to the successful deployment of high-quality solutions. Now, as I transition into Governance, Risk Management, and Compliance (GRC), I am leveraging my analytical skills to conduct thorough risk assessments, implement compliance frameworks, develop robust policies, and enhance cybersecurity practices, all aimed at reducing risks and ensuring compliance with industry standards.
+As a product Manager, I led the entire product lifecycle, from market research to roadmap development, guiding cross-functional teams to deliver products that met market needs and business goals. My experience in functional testing includes designing test cases, ensuring quality through rigorous testing, and efficiently resolving defects, leading to the successful deployment of high-quality solutions. Now, as I transition into Governance, Risk Management, and Compliance (GRC), I am leveraging my analytical skills to conduct thorough risk assessments, implement compliance frameworks, develop robust policies, and enhance cybersecurity practices, all aimed at reducing risks and ensuring compliance with industry standards.
 
 # GRC and Cybersecurity Tools
-This repository provides a comprehensive guide on tools used and how they were used in my cybersecurity journey. Key focus areas are Governance, Risk, and Compliance (GRC). I have included a list of essential GRC tools, both enterprise-level and open-source which were learnt during the journey.
+This repository provides a comprehensive guide on tools used and how they were used in my cybersecurity journey. Key focus areas are Governance, Risk, and Compliance (GRC). I have included a list of essential GRC tools, both enterprise-level and open-source which I learnt to use during my transition.
 
 ## Enterprise GRC Tools
 
@@ -108,6 +108,8 @@ You can view my certifications and achievements on my [Credly profile](https://w
 <div>
     <img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" style="width: 10%; height: auto;" />
     <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" style="width: 10%; height: auto;" />
+    <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" style="width: 10%; height: auto;" />
+    <img src="https://images.credly.com/images/47a284dc-266a-4e74-bb5e-f41df1d6edcb/image.png" style="width: 10%; height: auto;" />
 </div>
 
 ### Network
