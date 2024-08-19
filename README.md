@@ -2,18 +2,17 @@
 <a href="https://www.linkedin.com/in/yinkafreeman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
-As an RMIT University graduate with a Master’s in Analytics, I am transitioning from a role in business analysis and product management to specialize in Governance, Risk Management, and Compliance (GRC). With a strong foundation in analytics and a commitment to effective risk management and audit practices, I am dedicated to advancing my expertise in these critical areas.
+With a Master’s in Analytics from RMIT University, I am embarking on a strategic transition from business analysis and product management to specializing in Governance, Risk Management, and Compliance (GRC). My background in analytics equips me with a keen ability to leverage data-driven insights for enhancing risk management and compliance strategies. Passionate about shaping robust frameworks and implementing effective audit practices, I am committed to driving innovation and excellence in the GRC field. My goal is to integrate my analytical skills with cutting-edge GRC practices to tackle complex challenges and deliver impactful solutions.
 
 ## Objective
-To showcase my expertise in Governance, Risk Management, and Compliance (GRC) through a curated portfolio of projects on GitHub. I intend to demonstrate my analytical skills and commitment to effective risk management and audit practices while contributing to the broader cybersecurity and GRC community.
+My objective is to showcase my expertise in Governance, Risk Management, and Compliance (GRC) through a curated portfolio of projects on GitHub.
 
 ## Skills
 I have a strong foundation in business analysis, where I successfully gathered and analyzed requirements, mapped processes, and managed stakeholder relationships to deliver clear, actionable insights that improved project outcomes. 
 In my role as a product manager, I led the entire product lifecycle, from market research to roadmap development, guiding cross-functional teams to deliver products that met market needs and business goals. My experience in functional testing includes designing test cases, ensuring quality through rigorous testing, and efficiently resolving defects, leading to the successful deployment of high-quality solutions. Now, as I transition into Governance, Risk Management, and Compliance (GRC), I am leveraging my analytical skills to conduct thorough risk assessments, implement compliance frameworks, develop robust policies, and enhance cybersecurity practices, all aimed at reducing risks and ensuring compliance with industry standards.
 
 # GRC and Cybersecurity Tools
-This repository provides a comprehensive guide on tools used and how they were used in my cybersecurity journey. Key focus areas is on Governance, Risk, and Compliance (GRC). I have included a list of essential GRC tools, both enterprise-level and open-source which were learnt during the journey.
-
+This repository provides a comprehensive guide on tools used and how they were used in my cybersecurity journey. Key focus areas are Governance, Risk, and Compliance (GRC). I have included a list of essential GRC tools, both enterprise-level and open-source which were learnt during the journey.
 
 ## Enterprise GRC Tools
 
@@ -55,7 +54,7 @@ This repository provides a comprehensive guide on tools used and how they were u
    - An open-source GRC tool designed to support governance, risk, and compliance activities.
    - **Key Features:** Risk management, compliance tracking, audit management.
 
-2. **eramba**
+2. **Eramba**
    - Open-source GRC software focused on simplifying GRC processes.
    - **Key Features:** Risk management, compliance management, policy management, incident management.
 
@@ -100,10 +99,15 @@ This repository provides a comprehensive guide on tools used and how they were u
 3. **Practical Experience:** Gain hands-on experience through training programs, certifications, and practical projects.
 4. **Stay Updated:** Continuously update your knowledge to keep up with evolving regulations and tool capabilities.
 
-### Certification
+## Certification
+
+You can view my certifications and achievements on my [Credly profile](https://www.credly.com/users/adeyinka-kayode-freeman).
+
+### Certification Badges
+
 <div>
-    <img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" style="width: 50%; height: auto;" />
-    <img src="https://www.credly.com/earner/earned/badge/82150843-6332-4e28-b87a-cadd8d637d73" style="width: 50%; height: auto;" />
+    <img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" style="width: 30%; height: auto;" />
+    <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" style="width: 30%; height: auto;" />
 </div>
 
 ### Network
