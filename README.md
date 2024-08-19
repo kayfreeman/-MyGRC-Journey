@@ -102,8 +102,8 @@ This repository provides a comprehensive guide on tools used and how they were u
 
 ### Certification
 <div>
-    <img src="<img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" style="width: 50%; height: auto;" />
-    <img src="https://www.credly.com/earner/earned/badge/82150843-6332-4e28-b87a-cadd8d637d73" />
+    <img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" style="width: 50%; height: auto;" />
+    <img src="https://www.credly.com/earner/earned/badge/82150843-6332-4e28-b87a-cadd8d637d73" style="width: 50%; height: auto;" />
 </div>
 
 ### Network
