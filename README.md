@@ -105,13 +105,12 @@ You can view my certifications and achievements on my [Credly profile](https://w
 
 ### Certification and Training Badges
 
-![Certification 1](https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png)
-
-![Certification 2](https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)
-
-![Certification 3](https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png)
-
-![Certification 4](https://images.credly.com/images/47a284dc-266a-4e74-bb5e-f41df1d6edcb/image.png)
+<div style="text-align: center;">
+    <img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" style="width: 10%; height: auto; margin-right: 20px;" />
+    <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" style="width: 10%; height: auto; margin-right: 20px;" />
+    <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" style="width: 10%; height: auto; margin-right: 20px;" />
+    <img src="https://images.credly.com/images/47a284dc-266a-4e74-bb5e-f41df1d6edcb/image.png" style="width: 10%; height: auto;" />
+</div>
 
 ### Network
 <div>
