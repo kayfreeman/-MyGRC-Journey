@@ -1,38 +1,19 @@
 # Hello, I'm Adeyinka (Kay) Freeman
 <a href="https://www.linkedin.com/in/yinkafreeman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
+## Introduction
 As an RMIT University graduate with a Master’s in Analytics, I am transitioning from a role in business analysis and product management to specialize in Governance, Risk Management, and Compliance (GRC). With a strong foundation in analytics and a commitment to effective risk management and audit practices, I am dedicated to advancing my expertise in these critical areas.
 
 ## Objective
-To showcase my expertise in Governance, Risk Management, and Compliance (GRC) through a curated portfolio of projects on GitHub. My aspiration is to demonstrate my analytical skills and commitment to effective risk management and audit practices, while contributing to the broader cybersecurity and GRC community.
+To showcase my expertise in Governance, Risk Management, and Compliance (GRC) through a curated portfolio of projects on GitHub. I intend to demonstrate my analytical skills and commitment to effective risk management and audit practices while contributing to the broader cybersecurity and GRC community.
 
 ## Skills
-I have a strong foundation in business analysis, where I successfully gathered and analyzed requirements, mapped processes, and managed stakeholder relationships to deliver clear, actionable insights that improved project outcomes. In my role as a product manager, I led the entire product lifecycle, from market research to roadmap development, guiding cross-functional teams to deliver products that met market needs and business goals. My experience in functional testing includes designing test cases, ensuring quality through rigorous testing, and efficiently resolving defects, leading to the successful deployment of high-quality solutions. Now, as I transition into Governance, Risk Management, and Compliance (GRC), I am leveraging my analytical skills to conduct thorough risk assessments, implement compliance frameworks, develop robust policies, and enhance cybersecurity practices, all aimed at reducing risks and ensuring compliance with industry standards.
+I have a strong foundation in business analysis, where I successfully gathered and analyzed requirements, mapped processes, and managed stakeholder relationships to deliver clear, actionable insights that improved project outcomes. 
+In my role as a product manager, I led the entire product lifecycle, from market research to roadmap development, guiding cross-functional teams to deliver products that met market needs and business goals. My experience in functional testing includes designing test cases, ensuring quality through rigorous testing, and efficiently resolving defects, leading to the successful deployment of high-quality solutions. Now, as I transition into Governance, Risk Management, and Compliance (GRC), I am leveraging my analytical skills to conduct thorough risk assessments, implement compliance frameworks, develop robust policies, and enhance cybersecurity practices, all aimed at reducing risks and ensuring compliance with industry standards.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Setting up a Malware Lab (Windows & Linux)    | <a href="https://google.com">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
-| Case Management with TheHive                  | <a href="https://google.com">Detection Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
-
-## Tools
 # GRC and Cybersecurity Tools
+This repository provides a comprehensive guide on tools used and how they were used in my cybersecurity journey. Key focus areas is on Governance, Risk, and Compliance (GRC). I have included a list of essential GRC tools, both enterprise-level and open-source which were learnt during the journey.
 
-## Overview
-
-This repository provides a comprehensive guide for individuals pivoting to cybersecurity with a focus on Governance, Risk, and Compliance (GRC). It includes a list of essential GRC tools, both enterprise-level and open-source, as well as introductory tools for learning the basics of cybersecurity.
-
-## Table of Contents
-
-- [Enterprise GRC Tools](#enterprise-grc-tools)
-- [Open Source GRC Tools](#open-source-grc-tools)
-- [Introductory Tools for Learning Cybersecurity Basics](#introductory-tools-for-learning-cybersecurity-basics)
-- [Recommended Approach](#recommended-approach)
 
 ## Enterprise GRC Tools
 
@@ -112,36 +93,24 @@ This repository provides a comprehensive guide for individuals pivoting to cyber
    - A free and open-source Linux distribution for intrusion detection, network security monitoring, and log management.
    - **Key Features:** Network security monitoring, intrusion detection, log management.
 
-## Recommended Approach
+## My Journey Pathway
 
 1. **Start with Basics:** Begin with the introductory tools to build a solid foundation in cybersecurity concepts.
 2. **Select Key Tools:** Choose a few enterprise and open-source GRC tools to focus on based on your career goals.
 3. **Practical Experience:** Gain hands-on experience through training programs, certifications, and practical projects.
 4. **Stay Updated:** Continuously update your knowledge to keep up with evolving regulations and tool capabilities.
 
-By mastering these tools and following a structured learning path, you will be well-equipped to handle various GRC challenges in your cybersecurity career.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-
-
-
-
+### Certification
+<div>
+    <img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" />
+    <img src="https://www.credly.com/earner/earned/badge/82150843-6332-4e28-b87a-cadd8d637d73" />
+</div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -152,7 +121,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -162,5 +130,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Setting up a Malware Lab (Windows & Linux)    | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://google.com">Detection Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
+| Case Management with TheHive                  | <a href="https://google.com">Detection Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
