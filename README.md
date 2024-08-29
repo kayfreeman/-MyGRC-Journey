@@ -135,7 +135,7 @@ You can view my certifications and achievements on my [Credly profile](https://w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up a Malware Lab (Windows & Linux)    | <a href="https://github.com/kayfreeman/MyGRC-Journey/blob/main/Malware%20Laboratory%20setup%20Report.pdf"</a>|
+| Setting up a Malware Lab (Windows & Linux)    | https://github.com/kayfreeman/MyGRC-Journey/blob/main/Malware%20Laboratory%20setup%20Report.pdf|
 | Presentation Template for Phishing Training (MasterCard) | <a href="https://github.com/kayfreeman/MyGRC-Journey/blob/main/Forage%20Slide_MasterCard%201.pdf"</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
