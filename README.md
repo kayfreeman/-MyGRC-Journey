@@ -1,7 +1,7 @@
 # Hello, I'm Adeyinka (Kay) Freeman
 <a href="https://www.linkedin.com/in/yinkafreeman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Introduction
+## INTRODUCTION
 With a Master’s in Analytics from RMIT University, I am embarking on a strategic transition from business analysis and product management to specializing in Governance, Risk Management, and Compliance (GRC). My background in analytics equips me with a keen ability to leverage data-driven insights to enhance risk management and compliance strategies. Passionate about shaping robust frameworks and implementing effective audit practices, I am committed to driving innovation and excellence in the GRC field. I aim to integrate my analytical skills with cutting-edge GRC practices to tackle complex challenges and deliver impactful solutions.
 
 ## Objective
@@ -14,8 +14,7 @@ As a product Manager, I led the entire product lifecycle, from market research t
 # GRC and Cybersecurity Tools
 This repository provides a comprehensive guide on tools used and how they were used in my cybersecurity journey. Key focus areas are Governance, Risk, and Compliance (GRC). I have included a list of essential GRC tools, both enterprise-level and open-source which I learnt to use during my transition.
 
-## Enterprise GRC Tools
-
+## ENTERPRISE GRC TOOLS - PROFICIENT ****
 1. **RSA Archer**
    - Comprehensive platform for managing enterprise risks, compliance, and regulatory requirements.
    - **Key Features:** Risk assessments, policy management, incident management, audit management.
@@ -62,7 +61,7 @@ This repository provides a comprehensive guide on tools used and how they were u
    - Open-source tool for incident response and digital forensics, focusing on GRC aspects.
    - **Key Features:** Incident response, threat detection, compliance reporting.
 
-## Introductory Tools for Learning Cybersecurity Basics
+## OPEN SOURCE TOOLS - PROFICIENT ****
 
 1. **Kali Linux**
    - A Linux distribution designed for penetration testing and security auditing.
@@ -92,14 +91,14 @@ This repository provides a comprehensive guide on tools used and how they were u
    - A free and open-source Linux distribution for intrusion detection, network security monitoring, and log management.
    - **Key Features:** Network security monitoring, intrusion detection, log management.
 
-## My Journey Pathway
+## MY JOURNEY/PATHWAY
 
 1. **Start with Basics:** Begin with the introductory tools to build a solid foundation in cybersecurity concepts.
 2. **Select Key Tools:** Choose a few enterprise and open-source GRC tools to focus on based on your career goals.
 3. **Practical Experience:** Gain hands-on experience through training programs, certifications, and practical projects.
 4. **Stay Updated:** Continuously update your knowledge to keep up with evolving regulations and tool capabilities.
 
-## Certification
+## CERTIFICATIONS
 You can view my certifications and achievements on my [Credly profile](https://www.credly.com/users/adeyinka-kayode-freeman).
 
 <div>
@@ -107,8 +106,7 @@ You can view my certifications and achievements on my [Credly profile](https://w
 <img src="https://img.shields.io/badge/-CRISC-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Certification Badges
-
+## CERTIFICATION BADGES
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
     <img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" style="width: 100px; height: auto;" />
     <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" style="width: 100px; height: auto;" />
@@ -131,12 +129,17 @@ You can view my certifications and achievements on my [Credly profile](https://w
 </div>
 
 
-## Projects
+## PROJECTS
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Setting up a Malware Lab (Windows & Linux)    | https://github.com/kayfreeman/MyGRC-Journey/blob/main/Malware%20Laboratory%20setup%20Report.pdf|
-| Presentation Template for Phishing Training (MasterCard) | <a href="https://github.com/kayfreeman/MyGRC-Journey/blob/main/Forage%20Slide_MasterCard%201.pdf"</a>|
+| Skill                                         | Associated Project                                               |
+|-----------------------------------------------|------------------------------------------------------------------|
+| Setting up a Malware Lab (Windows & Linux)    | [Malware Laboratory Setup Report](https://github.com/kayfreeman/MyGRC-Journey/blob/main/Malware%20Laboratory%20setup%20Report.pdf) |
+| Presentation Template for Phishing Training (MasterCard) | [Forage Slide MasterCard](https://github.com/kayfreeman/MyGRC-Journey/blob/main/Forage%20Slide_MasterCard%201.pdf) |
+
+
+
+
+
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">Detection Lab</a>|
