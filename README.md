@@ -5,7 +5,7 @@
 With a Master’s in Analytics from RMIT University, I am embarking on a strategic transition from business analysis and product management to specializing in Governance, Risk Management, and Compliance (GRC). My background in analytics equips me with a keen ability to leverage data-driven insights to enhance risk management and compliance strategies. Passionate about shaping robust frameworks and implementing effective audit practices, I am committed to driving innovation and excellence in the GRC field. I aim to integrate my analytical skills with cutting-edge GRC practices to tackle complex challenges and deliver impactful solutions.
 
 ## Objective
-I aim to showcase my expertise and experience in my Governance, Risk Management, and Compliance (GRC) journey through the curated portfolios of projects and documents on GitHub.
+I aim to showcase my expertise and experience in my Governance, Risk Management, and Compliance (GRC) journey through the curated portfolios of projects, documents and, virtual internship opportunities on GitHub.
 
 ## Skills
 I have a strong foundation in business analysis, where I successfully gathered and analyzed requirements, mapped processes, and managed stakeholder relationships to deliver clear, actionable insights that improved project outcomes. 
@@ -135,7 +135,13 @@ You can view my certifications and achievements on my [Credly profile](https://w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up a Malware Lab (Windows & Linux)    | <a href="https://google.com">Detection Lab</a>|
+| Setting up a Malware Lab (Windows & Linux)    | <a href="[https://google.com">Detection Lab](https://github.com/kayfreeman/MyGRC-Journey/blob/main/Malware%20Laboratory%20setup%20Report.pdf)</a>|
+| Presentation Template for Phishing Training (MasterCard) | <a href="[https://google.com">Detection Lab](https://github.com/kayfreeman/MyGRC-Journey/blob/main/Forage%20Slide_MasterCard%201.pdf)</a>|
+
+
+
+
+
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">Detection Lab</a>|
