@@ -131,7 +131,7 @@ You can view my certifications and achievements on my [Credly profile](https://w
 
 ## PROJECTS
 
-| Skill                                         | Associated Project                                               |
+| Skill                                         | Associated Project Link (Click on the Project)                   |
 |-----------------------------------------------|------------------------------------------------------------------|
 | Setting up a Malware Lab (Windows & Linux)    | [Malware Laboratory Setup Report](https://github.com/kayfreeman/MyGRC-Journey/blob/main/Malware%20Laboratory%20setup%20Report.pdf) |
 | Presentation Template for Phishing Training (MasterCard) | [Forage Slide MasterCard](https://github.com/kayfreeman/MyGRC-Journey/blob/main/Forage%20Slide_MasterCard%201.pdf) |
