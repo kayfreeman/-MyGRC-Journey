@@ -137,8 +137,6 @@ You can view my certifications and achievements on my [Credly profile](https://w
 | Presentation Template for Phishing Training (MasterCard) | [Forage Slide MasterCard](https://github.com/kayfreeman/MyGRC-Journey/blob/main/Forage%20Slide_MasterCard%201.pdf) |
 | Risk Management Assessment Survey | | [Risk Management Survey for Organizations in Australia](https://adeyinkafreeman.typeform.com/to/QEE66ED2?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx) |
 
-| Risk Management Assessment Survey | | [Risk Management Survey for Organizations in Australia](https://adeyinkafreeman.typeform.com/to/QEE66ED2?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx) |
-
 
 
 
