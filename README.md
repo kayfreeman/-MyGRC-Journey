@@ -132,7 +132,7 @@ You can view my certifications and achievements on my [Credly profile](https://w
 ## PROJECTS
 | Projects worked on                                      | Associated Project Link (Click on the Project)                   |
 |-----------------------------------------------|------------------------------------------------------------------|
-| Risk Management Assessment Survey                       | https://tinyurl.com/2p92v85r <br> *Please copy and paste this link into your browser.* |
+| Risk Management Assessment Survey                       | (https://tinyurl.com/2p92v85r) <br> *Please copy and paste this link into your browser.* |
 | Setting up a Malware Lab (Windows & Linux)    | [Malware Laboratory Setup Report](https://github.com/kayfreeman/MyGRC-Journey/blob/main/Malware%20Laboratory%20setup%20Report.pdf) |
 | Presentation Template for Phishing Training (MasterCard) | [Forage Slide MasterCard](https://github.com/kayfreeman/MyGRC-Journey/blob/main/Forage%20Slide_MasterCard%201.pdf) |
 
