@@ -135,14 +135,5 @@ You can view my certifications and achievements on my [Credly profile](https://w
 |-----------------------------------------------|------------------------------------------------------------------|
 | Setting up a Malware Lab (Windows & Linux)    | [Malware Laboratory Setup Report](https://github.com/kayfreeman/MyGRC-Journey/blob/main/Malware%20Laboratory%20setup%20Report.pdf) |
 | Presentation Template for Phishing Training (MasterCard) | [Forage Slide MasterCard](https://github.com/kayfreeman/MyGRC-Journey/blob/main/Forage%20Slide_MasterCard%201.pdf) |
-| Risk Management Assessment Survey | [Risk Management Survey for Organizations in Australia](<div data-tf-live="01J8GCQ93NR9X8WCXDSQ8JADS9"></div><script src="//embed.typeform.com/next/embed.js"></script>)|
+| Risk Management Assessment Survey | [Risk Management Survey for Organizations in Australia]([https://adeyinkafreeman.typeform.com/to/QEE66ED2](https://adeyinkafreeman.typeform.com/to/QEE66ED2?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx))|
 
-
-
-
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
-| Case Management with TheHive                  | <a href="https://google.com">Detection Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
